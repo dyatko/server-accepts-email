@@ -34,7 +34,7 @@
     "assert-rejects": "^0.1.1",
     "is-travis": "^2.0.0",
     "mocha": "^5.2.0",
-    "node-memwatch": "git+https://github.com/dyatko/node-memwatch.git",
+    "node-memwatch": "https://github.com/dyatko/node-memwatch/archive/master.tar.gz",
     "typescript": "^2.9.2"
   },
   "keywords": [
